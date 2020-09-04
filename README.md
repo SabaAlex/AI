@@ -9,7 +9,7 @@ Distributions
 Search Tree
 
 ### Lab 3&4
-Evolutionary Alg nad Hill Climbing
+Evolutionary Alg and Hill Climbing
 Particle Swarm Optimization
 
 ### Lab 5
